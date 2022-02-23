@@ -1,2 +1,2 @@
 # debian
-Script pós install Debian variants
+Script for job in  Debian variants
